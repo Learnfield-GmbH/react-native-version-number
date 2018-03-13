@@ -1,7 +1,6 @@
 /* @flow */
 
 import { NativeModules } from 'react-native';
-
 const { RNVersionNumber } = NativeModules;
 
 type VersionObject = {
